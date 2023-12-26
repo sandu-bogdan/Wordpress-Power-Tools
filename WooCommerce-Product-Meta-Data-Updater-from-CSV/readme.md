@@ -8,7 +8,8 @@ This PHP script facilitates the update of meta data in WooCommerce products from
 
 1. Set the `$meta_key` variable to the meta key you want to update.
 2. Set the `$csv_file` variable to the path of your CSV file. The CSV file should have SKUs in the first column and the corresponding meta data in the second column.
-3. Run the script.
+3. Run the script in ssh console. 
+``` cd /var/www/yoursite.com/public_html/ && /usr/local/bin/wp eval-file /var/www/scripts/update_meta.php ```
 
 ## Code Explanation
 
