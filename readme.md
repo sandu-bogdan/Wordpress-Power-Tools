@@ -6,5 +6,5 @@ WordPress Power Tools is a robust toolkit crafted to elevate and simplify your W
 
 ## Table of Contents
 
-1. [WooCommerce Product Meta Data Updater from CSV](#woocommerce-product-meta-data-updater-from-csv)
+1. [WooCommerce Product Meta Data Updater from CSV](https://github.com/sandu-bogdan/Wordpress-Power-Tools/tree/main/WooCommerce-Product-Meta-Data-Updater-from-CSV)
 
